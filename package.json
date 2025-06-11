@@ -1,0 +1,18 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Carlos del Angel Martinez Luevano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
